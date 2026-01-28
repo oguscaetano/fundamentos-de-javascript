@@ -1,2 +1,7 @@
 # Fundamentos de JavaScript
+
 Repositório do curso Fundamentos de JavaScript do Gus
+
+Links úteis:  
+- [VSCode](https://code.visualstudio.com/)
+- [Documentação MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
